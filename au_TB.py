@@ -231,7 +231,6 @@ def copy_df_excel(str_seek, df, sheet):
 
 copy_df_excel("现金_末", df_bs_tier1, wb1.sheets("表二"))
 copy_df_excel("银行存款_末", df_bs_tier1, wb1.sheets("表二"))
-print("the second commit")
 
 
 
